@@ -1,2 +1,4 @@
 # site-cordel
- Site sendo desenvolvido para fixar novos conhecimentos HTML e CSS
+ Site sendo desenvolvido ustilizando imagens com efeito Parallax simples.
+ 
+ Acesse o site aqui:
