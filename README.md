@@ -1,4 +1,4 @@
 # site-cordel
  Site sendo desenvolvido ustilizando imagens com efeito Parallax simples.
  
- Acesse o site aqui:
+ Acesse o site aqui:  https://karenlukianyalmeida.github.io/site-cordel/
